@@ -1,4 +1,4 @@
-# Exercise: Building a Student Registry
+ Exercise: Building a Student Registry
 
 ## Task
 
